@@ -7,6 +7,6 @@
 
 The philosophy of 8086tiny is to keep the code base as small as possible, and through the open source license encourage individual developers to tune and extend it as per their specific requirements, adding support, for example, for more complex instruction sets (e.g. Pentium) or peripherals (e.g. mouse). Forking this repository is highly encouraged!
 
-Running with the default floppy disk can be done via the `runme` script. To run some other floppy disk, use `.\run-fd.sh <floppy.img>`.
+Running with the default floppy disk can be done via the `runme` script. To run some other floppy disk, use `.\run-fd.sh <floppy.img>`. You can also run a floppy disk and hard disk pair using the `./run-fd-hd.sh <floppy.img> <hard.img>` script.
 
 Any questions, comments or suggestions are very welcome in our forum at 8086tiny.freeforums.net.
